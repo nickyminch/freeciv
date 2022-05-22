@@ -1,0 +1,163 @@
+[nation_belarusian]
+
+name=_("Belarusian")
+plural=_("?plural:Belarusians")
+groups="Modern", "European"
+legend=_("Belarus was part of the ancient Slavic state of Kievan Rus', then\
+ subsequently Lithuania, Rzeczpospolita, the Russian Empire and the Soviet\
+ Union. Belarus became independent in 1991 with the dissolution of the\
+ Soviet Union.")
+
+leaders = {
+ "name",                        "sex"
+
+; The most famous ruler of Polatsak.
+ "Usyaslav Brachyslavich",      "Male"
+
+; also known as Vytautas the Great, see lithuanian.ruleset
+ "Vitaut",                      "Male"
+
+; the printer of first book in Belarusian language
+ "Francysk Skaryna",            "Male"
+
+; the Grand Hetman of Lithuania
+ "Mikalaj Radzivil",            "Male"
+
+; the leader of the January Uprising in Belarus
+ "Kastus Kalinouski",           "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+ "Despotism",       _("Duke %s"),      _("Duchess %s")
+ "Monarchy",        _("Tsar %s"),      _("Tsaritsa %s")
+ "Fundamentalism",  _("Patriarch %s"), _("Matriarch %s")
+}
+
+flag="belarus"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+civilwar_nations="russian", "lithuanian", "polish", "ukrainian"
+
+cities =
+  "Мінск",
+ "Барысаў",
+ "Салігорск",
+ "Маладзечна",
+ "Жодзіна",
+ "Слуцк",
+ "Дзяржынск",
+ "Вілейка",
+ "Мар’іна Горка",
+ "Стоўбцы",
+ "Смалявічы",
+ "Фаніпаль",
+ "Нясвіж",
+ "Заслаўе",
+ "Лагойск",
+ "Беразіно",
+ "Клецк",
+ "Любань",
+ "Старыя Дарогі",
+ "Валожын",
+ "Узда",
+ "Чэрвень",
+ "Капыль",
+ "Крупкі",
+ "Мядзел",
+ "Віцебск",
+ "Орша",
+ "Наваполацк",
+ "Полацк",
+ "Паставы",
+ "Глыбокае",
+ "Лепель",
+ "Новалукомль",
+ "Гарадок",
+ "Барань",
+ "Талачын",
+ "Браслаў",
+ "Чашнікі",
+ "Міёры, Мёры",
+ "Дуброўна",
+ "Сянно, Сенна",
+ "Верхнядзвінск",
+ "Докшыцы",
+ "Дзісна",
+ "Магілёў",
+ "Бабруйск",
+ "Горкі",
+ "Асіповічы",
+ "Крычаў",
+ "Быхаў",
+ "Клімавічы",
+ "Шклоў",
+ "Касцюковічы",
+ "Чавусы",
+ "Мсціслаў",
+ "Бялынічы",
+ "Кіраўск",
+ "Чэрыкаў",
+ "Слаўгарад",
+ "Круглае",
+ "Клічаў",
+ "Гомель",
+ "Мазыр",
+ "Жлобін",
+ "Светлагорск",
+ "Рэчыца",
+ "Калінкавічы",
+ "Рагачоў",
+ "Добруш",
+ "Жыткавічы",
+ "Хойнікі",
+ "Петрыкаў",
+ "Ельск",
+ "Буда-Кашалёва",
+ "Нароўля",
+ "Ветка",
+ "Чачэрск",
+ "Васілевічы",
+ "Тураў",
+ "Брэст",
+ "Баранавічы",
+ "Пінск",
+ "Кобрын",
+ "Бяроза",
+ "Лунінец",
+ "Івацэвічы",
+ "Пружаны",
+ "Іванава",
+ "Драгічын",
+ "Ганцавічы",
+ "Жабінка",
+ "Мікашэвічы",
+ "Белаазёрск",
+ "Столін",
+ "Маларыта",
+ "Ляхавічы",
+ "Камянец",
+ "Давыд-Гарадок",
+ "Высокае",
+ "Косава",
+ "Гродна",
+ "Ліда",
+ "Слонім",
+ "Ваўкавыск",
+ "Смаргонь",
+ "Навагрудак",
+ "Масты",
+ "Шчучын",
+ "Ашмяны",
+ "Скідзель",
+ "Бярозаўка",
+ "Астравец",
+ "Іўе",
+ "Дзятлава",
+ "Свіслач"
+ 
