@@ -60,7 +60,7 @@ init_buildings=""
 init_units=""
 
 ; Chain of similar flags:
-conflicts_with="ukrainian", "slovenian", "slovakian"
+conflicts_with="ukrainian", "slovenian", "slovakian",
 ; Transitional state
  "soviet"
 civilwar_nations="Soviet", "Siberian", "Tatar", "Cossack"
@@ -1183,3 +1183,4 @@ cities =
  "Высоцк",
  "Иннополис",
  "Чекалин"
+ 
